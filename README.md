@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Ismail Hakkı
-<h3>Junior Front-end Developer</h3>
+<h3>Junior Fullstack Developer</h3>
 
 I've been developing with React and NodeJs for over 4 months. I have developed projects with NodeJS and React. 
 
