@@ -5,7 +5,7 @@ I've been developing with React and NodeJs for over 4 months. I have developed p
 
 - 🌍  I'm based in Ankara
 - 📫 How to reach me: ismailhakkiasmaz@gmail.com
-- 🧠  I'm learning Solidty
+- 🧠  I'm learning NextJs - Solidty
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
